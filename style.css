@@ -88,3 +88,30 @@
     margin-top: 22px;
     max-width: 600px;
 }
+.sub-newsletter{
+    width: 1020px;
+    height: 482px;
+    flex-shrink: 0; 
+    background-color: rgba(255, 0, 0, 0.05);
+    margin: 140px;
+}
+.email{
+    padding-top: 60px;
+    padding-left: 425px;
+
+}
+.subscribe-heading{
+    padding-top: 20px;
+    padding-left: 400px;
+}
+
+.subscribe-para{
+    padding-top: 20px;
+    padding-left: 250px;
+    padding-right: 250px;
+    align-items: center;
+}
+.email-in{
+    padding-top: 20px;
+    padding-left: 400px;
+}
