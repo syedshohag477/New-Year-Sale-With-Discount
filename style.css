@@ -45,3 +45,25 @@
     width: 300px;
     height: 200px;
 }
+.off-six{
+    
+}
+#new-park-hotel{
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0; 
+    background-color: bisque;
+}
+.new-park-hotel-text{
+    text-align: center;
+    font-size: 24px;
+    padding: 100px;
+}
+
+.new-park-hotel-text span{
+    color: #F00;
+}
+.new-park-hotel-button{
+    align-items: center;
+    border-radius: 30px;
+}
