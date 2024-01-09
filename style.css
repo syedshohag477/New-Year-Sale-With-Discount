@@ -115,3 +115,23 @@
     padding-top: 20px;
     padding-left: 400px;
 }
+
+.footer .box-container{
+    display: flex;
+    padding-top: 100px;
+    
+    width: 1020px;
+    height: 482px;
+    flex-shrink: 0; 
+    background-color: rgb(8, 0, 0);
+    margin: 140px;
+}
+.footer .box-container .footer-column{
+    flex: 1 1 25rem;
+    padding-left: 30px;
+}
+.footer .box-container .footer-column h6 {
+    color: white;
+    font-size: 1.2rem;
+    
+}
