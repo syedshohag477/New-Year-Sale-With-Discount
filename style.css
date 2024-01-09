@@ -67,3 +67,24 @@
     align-items: center;
     border-radius: 30px;
 }
+.container2{
+    width: 1600px;
+    height: 1300px;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+.section-content{
+    display: flex;
+    margin-top: 48px;
+}
+.the-best-crafts h3{
+    color: #F00;
+    margin-top: 60px;
+}
+.the-best-crafts h1{
+    margin-top: 16px;
+}
+.the-best-crafts p{
+    margin-top: 22px;
+    max-width: 600px;
+}
